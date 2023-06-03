@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hayln Anderson</h1>
-<h3 align="center">An aspiring developer looking to launch my career.</h3>
+<h3 align="center">A junior developer looking to launch my career.</h3>
 
 - 🔭 I’m currently working on [The Plant Shop](https://github.com/hayln-alaine/thePlantShop)
 
